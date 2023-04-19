@@ -1,5 +1,5 @@
 <?php
-
+ 
 //establish the connection to database, and start the session
 require("includes/common.php");
 
